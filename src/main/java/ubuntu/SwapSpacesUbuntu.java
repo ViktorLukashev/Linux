@@ -1,3 +1,5 @@
+package ubuntu;
+
 public class SwapSpacesUbuntu {
     public static void main(String[] args) {
         SwapSpacesUbuntu ssu = new SwapSpacesUbuntu();

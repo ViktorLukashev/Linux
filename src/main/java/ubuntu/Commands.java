@@ -1,7 +1,9 @@
+package ubuntu;
+
 public class Commands {
     private final String update = "sudo apt-get update";
     private final String upgrade = "sudo apt-get upgrade";
-    private final String autoremove = "sudo apt-get autoremove && sudo apt-get autoremove";
+    private final String autoremove = "sudo apt-get autoremove | sudo apt-get autoremove";
     private final String pwd = "pwd"; // вывести текущую директорию
 
     private final String ls = "ls"; // содержимое директории

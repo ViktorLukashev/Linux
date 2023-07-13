@@ -1,3 +1,5 @@
+import ubuntu.Commands;
+
 public class Main {
     public static void main(String[] args) {
         TerminalInput ti = new TerminalInput();

@@ -1,3 +1,5 @@
+package ubuntu;
+
 public class PackageManager {
     public static void main(String[] args) {
         String vim = "vim";
